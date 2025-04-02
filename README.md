@@ -36,7 +36,7 @@
 1. استنسخ المستودع:
 ```bash
 git clone https://github.com/kl0l69/tele-1.bot.git
-cd advanced-telegram-bot
+cd tele-1.bot
 ```
 
 2. ثبت المتطلبات:
